@@ -1,0 +1,7 @@
+{
+  "name": "Royal Dine WhatsApp Assistant",
+  "description": "A premium 5-star restaurant ordering assistant with a seamless WhatsApp-style interface, supporting English, Urdu, and Roman Urdu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
